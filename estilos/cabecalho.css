@@ -1,0 +1,27 @@
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 96px 305px;
+    gap: 24px
+}
+
+
+.cabecalho {
+    font-weight: 600;
+    color: var(--bordo);
+}
+
+
+.cabecalho__titulo {
+    font-size: 48px;
+    font-weight: 600;
+    color:#101828 ;
+}
+
+.cabecalho__texto {
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    color: var(--cinza);
+}
