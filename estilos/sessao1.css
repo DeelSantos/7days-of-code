@@ -1,10 +1,11 @@
 .metricas__container {
     display: flex;
-
+    justify-content: center;
+    
 }
 
 .metricas__container-item {
-    margin: 0 2em 0 2em;
+    padding: 1em 3em 1em 3em;
 }
 
 
@@ -19,6 +20,7 @@
     font-size: 18px;
     color: #101828;
     font-weight: 500;
+    margin-bottom: 2em;
     
 }
 
