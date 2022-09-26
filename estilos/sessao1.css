@@ -1,13 +1,11 @@
 .metricas__container {
     display: flex;
-    justify-content: center;
-    
 }
 
 .metricas__container-item {
     padding: 1em 3em 1em 3em;
+    
 }
-
 
 .metricas__container-item h1{
     font-size: 60px;
