@@ -1,4 +1,4 @@
-.vagas {
+.talentos {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -7,19 +7,19 @@
 }
 
 
-.vagas__informacao {
+.talentos__informacao {
     font-weight: 600;
     color: var(--bordo);
 }
 
-.vagas__titulo {
+.talentos__titulo {
     font-size: 36px;
     font-weight: 600;
     color:#101828 ;
 }
 
 
-.vagas__texto {
+.talentos__texto {
     font-size: 20px;
     font-weight: 400;
     text-align: center;

@@ -1,0 +1,35 @@
+.lista-vaga {
+    margin: 0 20em;
+}
+
+
+.vaga  {
+    text-indent: 30px;
+    margin-bottom: 7em;
+    
+}
+
+.vaga__titulo {
+    font-size: 20px;
+    font-weight: 600;
+    color: #101828;
+    margin-bottom: 3em;
+}
+
+
+.vaga__titulo-item {
+    font-size: 18px;
+    font-weight: 500;
+    color: #101828;
+    margin-top: 1em 0;
+}
+
+
+.informacoes {
+    color: var(--cinza);
+    margin: 2em 0;
+}
+
+.informacoes span {
+    margin: 0 1em 0 0;
+}
