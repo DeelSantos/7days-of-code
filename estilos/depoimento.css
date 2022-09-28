@@ -1,0 +1,38 @@
+.depoimento {
+    display: flex;
+    background-color: rgba(196, 25, 25, 0.03);
+    flex-direction: column;
+    align-items: center;
+    padding: 64px;
+    gap: 24px;
+    width: 90%;
+    position: relative;
+    margin: 0 auto;
+}
+
+
+
+.depoimento__titulo {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--bordo);
+}
+
+.depoimento__texto {
+    font-size: 36px;
+    font-weight: 500;
+    color: #101828;
+    text-align: center;
+
+}
+
+
+.depoimento__nome {
+    color: #101828;
+}
+
+
+.depoimento__cargo {
+    font-size: 14px;
+    color: var(--cinza);
+}
